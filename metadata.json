@@ -1,0 +1,6 @@
+{
+  "name": "Go2Viral",
+  "description": "Doctor & clinic marketing agency website with appointment booking ad campaigns, doctor personal branding, high-converting landing pages, and medical video reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
